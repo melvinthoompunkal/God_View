@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+geoalchemy2
+asyncpg
+psycopg2-binary
+redis
+kafka-python
+requests
+aiohttp
+scikit-learn
+pandas
+numpy
+python-dotenv
+websockets
